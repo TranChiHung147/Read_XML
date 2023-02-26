@@ -1,0 +1,22 @@
+﻿<Window x:Class="ReadFileXML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReadFileXML"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Name="ui_root">
+            <Button x:Name="select"  
+                Margin="20"
+                Height="40"
+                Width="120"
+                Background="Blue"
+                Click="openFile"
+                FontSize="25"
+                >Open file</Button>
+        </StackPanel>
+        
+    </ScrollViewer>
+</Window>

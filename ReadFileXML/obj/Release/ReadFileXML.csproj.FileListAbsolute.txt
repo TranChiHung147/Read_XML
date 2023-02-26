@@ -1,0 +1,2 @@
+D:\WPF\ReadFileXML\ReadFileXML\obj\Release\ReadFileXML.csproj.AssemblyReference.cache
+D:\WPF\ReadFileXML\ReadFileXML\obj\Release\ReadFileXML.csproj.SuggestedBindingRedirects.cache
